@@ -1,2 +1,1 @@
-# chainfusion
-create a unified system that streamlines the entire supply chain process—from order placement to delivery—by integrating OMS, TMS, and DMS modules. Each module will function as a component within the larger ecosystem, allowing for seamless data flow and improved operational efficiency.
+A unified system that streamlines the entire supply chain process—from order placement to delivery—by integrating OMS, TMS, and DMS modules. Each module will function as a component within the larger ecosystem, allowing for seamless data flow and improved operational efficiency.
